@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\bin\Debug\netcoreapp3.1\UC3Linkedlist.exe
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\bin\Debug\netcoreapp3.1\UC3Linkedlist.deps.json
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\bin\Debug\netcoreapp3.1\UC3Linkedlist.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\bin\Debug\netcoreapp3.1\UC3Linkedlist.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\bin\Debug\netcoreapp3.1\UC3Linkedlist.dll
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\bin\Debug\netcoreapp3.1\UC3Linkedlist.pdb
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.dll
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.pdb
+C:\Users\91807\Desktop\Batch67\UC3Linkedlist\obj\Debug\netcoreapp3.1\UC3Linkedlist.genruntimeconfig.cache
