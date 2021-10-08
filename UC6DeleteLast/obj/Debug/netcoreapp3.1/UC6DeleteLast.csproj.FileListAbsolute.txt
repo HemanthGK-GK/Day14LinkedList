@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\bin\Debug\netcoreapp3.1\UC6DeleteLast.exe
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\bin\Debug\netcoreapp3.1\UC6DeleteLast.deps.json
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\bin\Debug\netcoreapp3.1\UC6DeleteLast.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\bin\Debug\netcoreapp3.1\UC6DeleteLast.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\bin\Debug\netcoreapp3.1\UC6DeleteLast.dll
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\bin\Debug\netcoreapp3.1\UC6DeleteLast.pdb
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.dll
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.pdb
+C:\Users\91807\Desktop\Batch67\UC6DeleteLast\obj\Debug\netcoreapp3.1\UC6DeleteLast.genruntimeconfig.cache
