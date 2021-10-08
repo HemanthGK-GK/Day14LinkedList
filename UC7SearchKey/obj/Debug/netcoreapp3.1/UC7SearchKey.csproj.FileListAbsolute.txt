@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\bin\Debug\netcoreapp3.1\UC7SearchKey.exe
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\bin\Debug\netcoreapp3.1\UC7SearchKey.deps.json
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\bin\Debug\netcoreapp3.1\UC7SearchKey.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\bin\Debug\netcoreapp3.1\UC7SearchKey.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\bin\Debug\netcoreapp3.1\UC7SearchKey.dll
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\bin\Debug\netcoreapp3.1\UC7SearchKey.pdb
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.dll
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.pdb
+C:\Users\91807\Desktop\Batch67\UC7SearchKey\obj\Debug\netcoreapp3.1\UC7SearchKey.genruntimeconfig.cache
