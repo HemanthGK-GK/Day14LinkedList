@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\bin\Debug\netcoreapp3.1\UC9DeleteAtPosition.exe
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\bin\Debug\netcoreapp3.1\UC9DeleteAtPosition.deps.json
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\bin\Debug\netcoreapp3.1\UC9DeleteAtPosition.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\bin\Debug\netcoreapp3.1\UC9DeleteAtPosition.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\bin\Debug\netcoreapp3.1\UC9DeleteAtPosition.dll
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\bin\Debug\netcoreapp3.1\UC9DeleteAtPosition.pdb
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.dll
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.pdb
+C:\Users\91807\Desktop\Batch67\UC9DeleteAtPosition\obj\Debug\netcoreapp3.1\UC9DeleteAtPosition.genruntimeconfig.cache
