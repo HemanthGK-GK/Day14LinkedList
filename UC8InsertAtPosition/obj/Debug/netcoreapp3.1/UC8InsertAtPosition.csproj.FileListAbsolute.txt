@@ -1,0 +1,13 @@
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\bin\Debug\netcoreapp3.1\UC8InsertAtPosition.exe
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\bin\Debug\netcoreapp3.1\UC8InsertAtPosition.deps.json
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\bin\Debug\netcoreapp3.1\UC8InsertAtPosition.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\bin\Debug\netcoreapp3.1\UC8InsertAtPosition.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\bin\Debug\netcoreapp3.1\UC8InsertAtPosition.dll
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\bin\Debug\netcoreapp3.1\UC8InsertAtPosition.pdb
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.dll
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.pdb
+C:\Users\91807\Desktop\Batch67\UC8InsertAtPosition\obj\Debug\netcoreapp3.1\UC8InsertAtPosition.genruntimeconfig.cache
