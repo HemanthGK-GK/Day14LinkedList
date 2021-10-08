@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\bin\Debug\netcoreapp3.1\UC5DeleteNode.exe
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\bin\Debug\netcoreapp3.1\UC5DeleteNode.deps.json
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\bin\Debug\netcoreapp3.1\UC5DeleteNode.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\bin\Debug\netcoreapp3.1\UC5DeleteNode.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\bin\Debug\netcoreapp3.1\UC5DeleteNode.dll
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\bin\Debug\netcoreapp3.1\UC5DeleteNode.pdb
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.dll
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.pdb
+C:\Users\91807\Desktop\Batch67\UC5DeleteNode\obj\Debug\netcoreapp3.1\UC5DeleteNode.genruntimeconfig.cache
